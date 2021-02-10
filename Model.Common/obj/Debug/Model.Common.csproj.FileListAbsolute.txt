@@ -1,0 +1,5 @@
+C:\Users\mateodubinjak\Desktop\mono_praksa\day2atMono\day2\Model.Common\bin\Debug\Model.Common.dll
+C:\Users\mateodubinjak\Desktop\mono_praksa\day2atMono\day2\Model.Common\bin\Debug\Model.Common.pdb
+C:\Users\mateodubinjak\Desktop\mono_praksa\day2atMono\day2\Model.Common\obj\Debug\Model.Common.csprojAssemblyReference.cache
+C:\Users\mateodubinjak\Desktop\mono_praksa\day2atMono\day2\Model.Common\obj\Debug\Model.Common.dll
+C:\Users\mateodubinjak\Desktop\mono_praksa\day2atMono\day2\Model.Common\obj\Debug\Model.Common.pdb
